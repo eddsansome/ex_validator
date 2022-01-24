@@ -45,6 +45,9 @@ class Post < ApplicationRecord
 end
 ```
 
+<img width="826" alt="Screenshot 2022-01-24 at 15 48 19" src="https://user-images.githubusercontent.com/75685296/150816033-551f7e8a-3747-40e9-a4cf-31990973dcda.png">
+
+
 Notes:
 
 - Notice how the naming convention takes care of the Object -> :symbol conversion
