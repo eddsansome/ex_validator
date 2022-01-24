@@ -45,8 +45,7 @@ class Post < ApplicationRecord
 end
 ```
 
-<img width="826" alt="Screenshot 2022-01-24 at 15 48 19" src="https://user-images.githubusercontent.com/75685296/150816033-551f7e8a-3747-40e9-a4cf-31990973dcda.png">
-
+<img width="842" alt="Screenshot 2022-01-24 at 15 55 43" src="https://user-images.githubusercontent.com/75685296/150817894-0c4b6259-deb5-4474-b9da-4f58ed9855a7.png">
 
 Notes:
 
