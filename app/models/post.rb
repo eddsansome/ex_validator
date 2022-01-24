@@ -1,3 +1,3 @@
 class Post < ApplicationRecord
-  validates :title, fuck: true
+  validates :title, banana: true
 end
